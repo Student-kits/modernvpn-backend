@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy==2.0.20
+asyncpg
+python-jose[cryptography]
+passlib[bcrypt]
+psycopg2-binary
+wgconfig
+httpx
+python-dotenv
